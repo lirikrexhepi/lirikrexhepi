@@ -1,4 +1,4 @@
-##### 👋 Hi, im Lirik Rexhepi
+#### 👋 Hi, im Lirik Rexhepi
 
 ###### 👀 I'm primarly a Website Developer
 
