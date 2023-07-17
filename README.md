@@ -1,14 +1,14 @@
-## 👋 Hi, im Lirik Rexhepi
+###### 👋 Hi, im Lirik Rexhepi
 
-## 👀 I'm primarly a Website Developer
+###### 👀 I'm primarly a Website Developer
 
-## 🔭 I’m currently developing an LMS website called Pupill
+###### 🔭 I’m currently developing an LMS website called Pupill
 
-## 🌱 I’m currently learning MERN Stack Development 
+###### 🌱 I’m currently learning MERN Stack Development 
 
-## 📫 How to reach me: [Linked In] (https://www.linkedin.com/in/lirik-rexhepi-700511240/)
+###### 📫 How to reach me: [Linked In] (https://www.linkedin.com/in/lirik-rexhepi-700511240/)
 
-# Thats a short introduction about me 🙋‍♂️
+###### Thats a short introduction about me 🙋‍♂️
 
 
 
