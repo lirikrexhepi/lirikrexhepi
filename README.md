@@ -6,7 +6,7 @@
 
 ###### 🌱 I’m currently learning MERN Stack Development 
 
-###### 📫 How to reach me: [Linked In] (https://www.linkedin.com/in/lirik-rexhepi-700511240/)
+###### 📫 How to reach me: [Linked In](https://www.linkedin.com/in/lirik-rexhepi-700511240/)
 
 ###### Thats a short introduction about me 🙋‍♂️
 
