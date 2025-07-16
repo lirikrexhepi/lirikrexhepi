@@ -1,7 +1,7 @@
 ####  Hi, im Lirik Rexhepi
 
 ##### 📫 Reach me: [Linked In](https://www.linkedin.com/in/lirik-rexhepi/)
-##### 📫 My personal website: [Click Me](https://lirikrexhepi.github.io/lr/))
+##### 📫 My personal website: [Click Me](https://lirikrexhepi.github.io/lr/)
 
 
 
